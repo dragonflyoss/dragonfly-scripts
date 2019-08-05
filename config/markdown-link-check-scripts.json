@@ -5,6 +5,9 @@
         },
         {
             "pattern": "^https://codecov.io/gh/dragonflyoss/Dragonfly"
+        },
+        {
+            "pattern": "^https://goreportcard.com/badge/github.com/dragonflyoss/Dragonfly"
         }
     ]
 }
